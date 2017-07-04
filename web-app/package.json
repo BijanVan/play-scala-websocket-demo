@@ -1,0 +1,27 @@
+{
+  "name": "web-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack --progress --colors --watch"
+  },
+  "author": "Bijan",
+  "license": "Bijan",
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-eslint": "^7.2.3",
+    "babel-loader": "^7.1.1",
+    "babel-polyfill": "^6.23.0",
+    "babel-preset-env": "^1.6.0",
+    "css-loader": "^0.28.4",
+    "eslint": "^3.19.0",
+    "extract-text-webpack-plugin": "^2.1.2",
+    "webpack": "^3.0.0"
+  },
+  "dependencies": {
+    "britecharts": "^1.7.2",
+    "d3": "^4.9.1",
+    "d3-selection": "^1.1.0"
+  }
+}
