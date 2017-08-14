@@ -1,4 +1,3 @@
-# Ignore Play! working directory #
 bin/
 /db
 .eclipse
@@ -14,3 +13,13 @@ server.pid
 *.eml
 /dist/
 .cache
+/.idea
+/.idea_modules
+/.classpath
+/.project
+/.settings
+/RUNNING_PID
+node_modules/
+*.map
+public/javascripts/bundle.js
+public/stylesheets/styles.css
