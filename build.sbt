@@ -1,4 +1,4 @@
-name := """play-rest-demo"""
+name := """play-scala-websocket-demo"""
 organization := "com.bijansoft"
 
 version := "1.0-SNAPSHOT"
